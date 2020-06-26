@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Fuertes Alejandro/Documents/workspace-java/AmazonViewerBasic/libs/makefile.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

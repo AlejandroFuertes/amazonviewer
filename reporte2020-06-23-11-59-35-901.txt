@@ -1,0 +1,56 @@
+Date: mar, 4 jun 2020
+
+
+
+ :: MOVIE ::
+ Title: Movie 2
+ Genero: Genero 2
+ Year: 2019
+ Creator: Creador 2
+ Duration: 122
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 1
+ Year: 2018
+ Creator: creator1
+ Duration: 45
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 2
+ Year: 2019
+ Creator: creator2
+ Duration: 45
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 3
+ Year: 2020
+ Creator: creator3
+ Duration: 45
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 4
+ Year: 2021
+ Creator: creator4
+ Duration: 45
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 5
+ Year: 2022
+ Creator: creator5
+ Duration: 45
+
+ :: BOOK ::
+ Title: Book 5
+ Editorial: editorial 5
+ Edition Date: Tue Jun 23 23:58:04 ART 2020
+ Authors: 	author 0 	author 1 	author 2 

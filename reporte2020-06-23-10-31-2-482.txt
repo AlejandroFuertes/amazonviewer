@@ -1,0 +1,17 @@
+Date: mar, 4 jun 2020
+
+
+
+ :: MOVIE ::
+ Title: Movie 1
+ Genero: Genero 1
+ Year: 2018
+ Creator: Creador 1
+ Duration: 121
+
+ :: MOVIE ::
+ Title: Movie 2
+ Genero: Genero 2
+ Year: 2019
+ Creator: Creador 2
+ Duration: 122
